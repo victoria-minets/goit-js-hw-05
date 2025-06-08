@@ -1,3 +1,3 @@
-# goit-js-hw-04
+# goit-js-hw-05
 
-4 Homework for GoIT JS
+5 Homework for GoIT JS
